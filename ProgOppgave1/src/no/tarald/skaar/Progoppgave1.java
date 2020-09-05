@@ -13,7 +13,7 @@ public class Progoppgave1 {
 		oppgave5();
 		System.out.println();
 		System.out.println("oppgave 6");
-		oppgave6(20);
+		oppgave6(21);
 
 	}
 	public static void oppgave4() {
@@ -106,8 +106,8 @@ public class Progoppgave1 {
 				fakultet *= i;
 				
 			}
+			System.out.println(fakultet);
 		}
-		System.out.println(fakultet);
 	}
 
 }
